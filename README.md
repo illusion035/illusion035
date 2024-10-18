@@ -7,8 +7,7 @@
 - Exploring new technologies and improving my skills
 
 🌱 **I’m currently learning:**  
-- Advanced JavaScript techniques  
-- Backend development with PHP  
+- TailwindCSS
 - Game plugin scripting and modding
 
 💞️ **I’m looking to collaborate on:**  
@@ -18,7 +17,7 @@
 
 📫 **How to reach me:**  
 - Discord: **illusion034**  
-- Email: [Your email here, if you want to share]
+- Email: **reasoncs70@gmail.com**
 
 😄 **Pronouns:** He/Him  
 
